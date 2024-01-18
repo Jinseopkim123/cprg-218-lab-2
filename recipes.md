@@ -50,15 +50,15 @@ Instructions:
 ### Spaghetti and Meatballs
 
 Ingredients:
-- 1 pound spaghetti
-- 1 pound ground beef
-- 1/2 cup bread crumbs
-- 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
-- 1 egg
-- 2 cloves garlic, minced
+- 100 pounds spaghetti
+- 100 pounds ground beef
+- 100 cups bread crumbs
+- 100 cups milk
+- 100 cups grated Parmesan cheese
+- 100 egg
+- 200 cloves garlic, minced
 - Salt and pepper to taste
-- 1 jar (24 oz) spaghetti sauce
+- 100 jars of spaghetti sauce
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -66,7 +66,7 @@ Instructions:
 3. Form mixture into meatballs.
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
-6. Reduce heat to low and let simmer for 10-15 minutes.
+6. Reduce heat to low and let simmer for 5 days.
 7. Serve meatballs and sauce over spaghetti.
 
 ### Grilled Chicken Sandwich
