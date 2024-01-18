@@ -113,3 +113,14 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 60 minutes or until burnt.
 9. Cool on wire racks.
+
+### Sugar Eggs
+
+Ingredients:
+- 1 Egg
+- 100 cups white sugar
+
+Instructions:
+1. Fry an egg.
+2. pour all sugar.
+3. Eat.
